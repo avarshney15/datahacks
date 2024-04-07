@@ -17,7 +17,7 @@ According the the National History Museum, it lived around here:
 
 The Pterodactyl was a carnivore, similar to about 33.8% of the dinosaurs in the Jurassic Period.
 <div style="text-align:center">
-<iframe src="assets/pter_diet.html" width="800" height="800" frameborder="0"></iframe>
+<iframe src="assets/pter_diet.html" width="500" height="500" frameborder="0"></iframe>
 </div>
 
 The Ankylosaurus was never lonely. By taxonomy, it was closest to the
