@@ -28,7 +28,7 @@ The Ankylosaurus was never lonely. By taxonomy, it was closest to the
         <p style="font-weight:bold;">albertaceratops</p>
     </div>
     <div style="flex:1; text-align:center;">
-        <img src="assets/chindesaurus.jpeg" alt="Image 2" style="width:200px; height:auto;">
+        <img src="assets/chindesaurus.jpg" alt="Image 2" style="width:200px; height:auto;">
         <p style="font-weight:bold;">chindesaurus</p>
     </div>
 </div>
