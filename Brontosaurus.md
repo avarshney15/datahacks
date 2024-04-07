@@ -1,7 +1,7 @@
 # you uploaded a Brontosaurus
 
 <div style="text-align:center">
-    <img src="assets/brontosaurus_image.png" alt="Alt Text">
+    <img src="assets/bron_image.png" alt="Alt Text">
 </div>
 
 The Brontosaurus was 21 meters long. It was larger than 94.2% of the dinosaurs in our dataset.
