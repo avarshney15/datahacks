@@ -15,12 +15,12 @@ According the the National History Museum, it lived around here:
     <img src="assets/bron_locate.png" alt="Alt Text">
 </div>
 
-The Brontosaurus was a herbivore, similar to about 62.3% of the dinosaurs in the Cretaceous Period.
+The Brontosaurus was a herbivore, similar to about 62.3% of the dinosaurs in the Jurassic Period.
 <div style="text-align:center">
 </iframe> <iframe src="assets/bron_diet.html" width="500" height="500" frameborder="0"></iframe>
 </div>
 
-The Ankylosaurus was never lonely. By taxonomy, it was closest to the
+The Brontosaurus was never lonely. By taxonomy, it was closest to the
 
 <div style="display:flex; flex-direction:row; justify-content:center; align-items:center; margin-bottom:20px;">
     <div style="flex:1; text-align:center;">
