@@ -1,5 +1,7 @@
 # Ankylosaurus
 
+![Image of an Ankylosaurus]("assets/akylosaurus_image.png")
+
 <iframe src="assets/ank_length.html" width="500" height="500" frameborder="0"></iframe>
 
 
