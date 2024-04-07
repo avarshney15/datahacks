@@ -1,7 +1,8 @@
 # you uploaded an Ankylosaurus.
 
-
-![Image of an Ankylosaurus](assets/ankylosaurus_image.png)
+<div style="text-align:center">
+    <img src="assets/ankylosaurus_image.png" alt="Alt Text">
+</div>
 
 The Ankylosaurus was 7 meters long. It was larger than 60.2% of the dinosaurs in our dataset.
 
@@ -9,6 +10,10 @@ The Ankylosaurus was 7 meters long. It was larger than 60.2% of the dinosaurs in
 <iframe src="assets/ank_length.html" width="500" height="500" frameborder="0"></iframe>
 </div>
 
+According the the National History Museum, he lived around here:
+<div style="text-align:center">
+    <img src="assets/ank_locate.png" alt="Alt Text">
+</div>
 
 The Ankylosaurus was a herbivore, similar to about 57.9% of the dinosaurs in the Cretaceous Period.
 <div style="text-align:center">
@@ -16,7 +21,6 @@ The Ankylosaurus was a herbivore, similar to about 57.9% of the dinosaurs in the
 </div>
 
 The Ankylosaurus was never lonely. By taxonomy, it was closest to the
-
 
 <div style="display:flex; flex-direction:row; justify-content:center; align-items:center; margin-bottom:20px;">
     <div style="flex:1; text-align:center;">
@@ -28,3 +32,7 @@ The Ankylosaurus was never lonely. By taxonomy, it was closest to the
         <p style="font-weight:bold;">gobisaurus</p>
     </div>
 </div>
+
+Press the back button, and test out another dinosaur!
+
+Thanks for coming!
