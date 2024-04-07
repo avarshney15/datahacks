@@ -1,9 +1,4 @@
 # Ankylosaurus
 
 
-```html
-<html>
-<head><meta charset="utf-8" /></head>
-<body>
-    <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
-        <script type="text/javascript">
+<iframe src="assets/ank_diet.html" width="800" height="200" frameborder="0"></iframe>
