@@ -6,26 +6,18 @@
 
 
 The Ankylosaurus was 7 meters long. It was larger than 60.2% of the dinosaurs in our dataset.
+
 <div style="text-align:center">
 <iframe src="assets/ank_length.html" width="500" height="500" frameborder="0"></iframe>
 </div>
 
 
 The Ankylosaurus was a herbivore, similar to about 57.9% of the dinosaurs in the Cretaceous Period.
+<div style="text-align:center">
 <iframe src="assets/ank_diet.html" width="500" height="500" frameborder="0"></iframe>
 </div>
 
 The Ankylosaurus was never lonely. By taxonomy, it was closest to the
-
-cedarpelta
-![Image of a cedarpelta](assets/cedarpelta.jpeg)
-</div>
-
-and the
-
-gobisaurus
-![Image of a gobisaurus](assets/gobisaurus.jpeg)
-</div>
 
 
 <div style="display:flex; flex-direction:row; justify-content:center; align-items:center; margin-bottom:20px;">
