@@ -1,9 +1,7 @@
 # you uploaded an Ankylosaurus.
 
-<div style="text-align:center">
-    ![Image of an Ankylosaurus](assets/ankylosaurus_image.png)
-</div>
 
+![Image of an Ankylosaurus](assets/ankylosaurus_image.png)
 
 The Ankylosaurus was 7 meters long. It was larger than 60.2% of the dinosaurs in our dataset.
 
