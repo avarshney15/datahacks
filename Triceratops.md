@@ -1,11 +1,7 @@
-# Triceratops
-<iframe src="assets/tri_length.html" width="800" height="800" frameborder="0"></iframe> <iframe src="assets/tri_diet.html" width="800" height="800" frameborder="0"></iframe>
-
-
 # you uploaded a Triceratops
 
 <div style="text-align:center">
-    <img src="assets/tri_image" alt="Alt Text">
+    <img src="assets/tri_image.png" alt="Alt Text">
 </div>
 
 The Triceratops was 9 meters long. It was larger than 69.1% of the dinosaurs in our dataset.
@@ -21,7 +17,7 @@ According the the National History Museum, it lived around here:
 
 The Triceratops was a herbivore, similar to about 57.9% of the dinosaurs in the Cretaceous Period.
 <div style="text-align:center">
-</iframe> <iframe src="assets/tri_diet.html" width="500" height="500" frameborder="0"></iframe>
+<iframe src="assets/tri_diet.html" width="500" height="500" frameborder="0"></iframe>
 </div>
 
 The Triceratops was never lonely. By taxonomy, it was closest to the
