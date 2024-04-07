@@ -1,5 +1,5 @@
 # you uploaded a Tyrannosaurus
-<iframe src="assets/trex_length.html" width="800" height="800" frameborder="0"></iframe> <iframe src="assets/trex_diet.html" width="800" height="800" frameborder="0"></iframe>
+
 
 <div style="text-align:center">
     <img src="assets/trex_image.png" alt="Alt Text">
@@ -8,7 +8,7 @@
 The Tyrannosaurus was 12 meters long. It was larger than 81.5% of the dinosaurs in our dataset.
 
 <div style="text-align:center">
-<iframe src="assets/trex_length.html" width="500" height="500" frameborder="0"></iframe>
+<iframe src="assets/trex_length.html" width="800" height="800" frameborder="0"></iframe>
 </div>
 
 According the the National History Museum, it lived around here:
@@ -18,7 +18,7 @@ According the the National History Museum, it lived around here:
 
 The Tyrannosaurus was a carnivore, similar to about 29.8% of the dinosaurs in the Cretaceous Period.
 <div style="text-align:center">
-</iframe> <iframe src="assets/bron_diet.html" width="500" height="500" frameborder="0"></iframe>
+<iframe src="assets/trex_diet.html" width="800" height="800" frameborder="0"></iframe>
 </div>
 
 The Tyrannosaurus was never lonely. By taxonomy, it was closest to the
