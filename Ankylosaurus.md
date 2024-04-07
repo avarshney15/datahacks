@@ -1,7 +1,7 @@
 # you uploaded an Ankylosaurus.
 
 <div style="text-align:center">
-![Image of an Ankylosaurus](assets/ankylosaurus_image.png)
+    ![Image of an Ankylosaurus](assets/ankylosaurus_image.png)
 </div>
 
 
