@@ -17,7 +17,7 @@ According the the National History Museum, it lived around here:
 
 The Brontosaurus was a herbivore, similar to about 62.3% of the dinosaurs in the Jurassic Period.
 <div style="text-align:center">
-</iframe> <iframe src="assets/bron_diet.html" width="500" height="500" frameborder="0"></iframe>
+<iframe src="assets/bron_diet.html" width="500" height="500" frameborder="0"></iframe>
 </div>
 
 The Brontosaurus was never lonely. By taxonomy, it was closest to the
