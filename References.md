@@ -29,7 +29,7 @@
 
 [Transfer Learning via Resnet](https://www.pluralsight.com/resources/blog/guides/introduction-to-resnet)
 
-[CNN Intro/Tutorial])(https://datagen.tech/guides/image-classification/image-classification-using-cnn/)
+[CNN Intro/Tutorial](https://datagen.tech/guides/image-classification/image-classification-using-cnn/)
 
 
 **Open AI:**
