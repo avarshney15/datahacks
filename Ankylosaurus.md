@@ -6,17 +6,6 @@
 
 The Ankylosaurus was 7 meters long. It was larger than 60.2% of the dinosaurs in our dataset.
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            background-color: black;
-        }
-    </style>
-</head>
-</html>
-
 
 <div style="text-align:center">
 <iframe src="assets/ank_length.html" width="500" height="500" frameborder="0"></iframe>
