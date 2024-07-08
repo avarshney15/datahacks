@@ -4,7 +4,7 @@ from PIL import Image
 import requests
 from io import BytesIO
 
-openai.api_key = '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'
+openai.api_key = 'YOUR OPENAI KEY'
 
 #input 2 dinosaurs
 st.title('Unveiling the Unseen - The Dinosaur Breeding Ground')
